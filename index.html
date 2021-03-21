@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Let's Guess Number!</title>
+  </head>
+  <body>
+    <header>
+      <h1 class="head">Let's Guess a Number!</h1>
+      <button class="btn again">Start Again!</button>
+      <img src="smile.png" class="between">
+      <div class="number">?</div>
+    </header>
+    <main>
+      <section class="left">
+        <input type="number" class="guess" />
+        <button class="btn check">Check!</button>
+      </section>
+      <section class="right">
+        <p class="message">Number Must be Between 1 to 30</p>
+        <p class="label-score">💯 Score: <span class="score">30</span></p>
+        <p class="label-highscore">
+          🥇 Highscore: <span class="highscore">0</span>
+        </p>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
