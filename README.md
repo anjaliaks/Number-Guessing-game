@@ -8,4 +8,4 @@ HTML, CSS and JavaScript
 Sublime Text <3
 
 # Check it out here-
-link - 
+link - https://anjaliaks.github.io/Number-Guessing-game/
