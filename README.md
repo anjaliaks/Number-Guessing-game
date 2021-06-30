@@ -8,4 +8,3 @@ HTML, CSS and JavaScript
 Sublime Text <3
 
 # Check it out <a href='https://anjaliaks.github.io/Number-Guessing-game/' target='_blank'>here</a>
-link - 
